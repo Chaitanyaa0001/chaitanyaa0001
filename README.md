@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer passionate about building web applications that are fast, functional, and user-friendly.<br>Currently working with the MERN stack and TypeScript, I love creating modern solutions that bring ideas to life. I aspire to be a software engineer.
+A Full Stack Developer passionate about building web applications that are fast, functional, and user-friendly.<br>Currently working with the MERN stack and TypeScript, I love creating modern solutions that bring ideas to life. I aspire to be a software engineer.
 
 
 ## 🌐 Socials:
