@@ -2,7 +2,7 @@
 A Full Stack Developer passionate about building web applications that are fast, functional, and user-friendly.<br>Currently working with the MERN stack and TypeScript, I love creating modern solutions that bring ideas to life. I aspire to be a software engineer.
 
 
-## 🌐 Socials:
+## 🌐 socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/chaitanyakhurana1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanyakhurana.workk@gmail.com) 
 
 # 💻 Tech Stack:
