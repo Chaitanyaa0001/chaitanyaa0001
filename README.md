@@ -7,7 +7,6 @@ A Full Stack Developer passionate about building web applications that are fast,
 ## 🌐 socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/chaitanyakhurana1)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanyakhurana.workk@gmail.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/chaitanyaa001/)
 
 
 
